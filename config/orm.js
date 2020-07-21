@@ -61,7 +61,7 @@ var orm = {
       cb(result);
     });
   },
-  // An example of objColVals would be {name: panther, sleepy: true}
+  // An example of objColVals would be {name: beyond, devoured: true}
   update: function (table, objColVals, condition, cb) {
     var queryString = "UPDATE " + table;
 
