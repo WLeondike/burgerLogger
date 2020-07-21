@@ -4,8 +4,9 @@
 
   I'll create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). In this application the user will be able to create a log for different burgers. At any given time, the user can press any of the buttons which include add burger, devour time, delete, or replenish. The burgers can be moved between two different tables or fully removed.  
 
-  GitHub: https://github.com/WLeondike
-  
+  GitHub: https://github.com/WLeondike <br>
+  Link to my deployed page: https://wleondike-eat-da-burger.herokuapp.com/
+
 
   ## Table of Contents
 
@@ -27,7 +28,11 @@
 
   ## Screenshots
 
-  <img src =".\public\assets\images\phaseOne.png" width="400">
+  Phase one: <br>
+  <img src =".\public\assets\images\phaseOne.png" width="400"> <br>
+  
+  Deployed version: <br>
+  <img src =".\public\assets\images\deployed.png" width="400">
   
 
   ## License
